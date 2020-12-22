@@ -1,0 +1,52 @@
+2020-11-30 13:23:03;Inside Relationship
+2020-11-30 13:23:03;success
+2020-11-30 16:06:21;Inside Relationship
+2020-11-30 16:06:43;Inside Relationship
+2020-11-30 16:06:49;Inside Relationship
+2020-11-30 16:06:49;success
+2020-11-30 16:06:54;Inside Relationship
+2020-11-30 16:11:31;Inside Relationship
+2020-11-30 16:11:39;Inside Relationship
+2020-11-30 16:11:39;success
+2020-11-30 16:30:59;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 16:31:07;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 16:31:37;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:08:39;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:08:51;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bror, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:08:56;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bror, relationship=brothee, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:09:34;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Bror, relationship=brothee, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:10:03;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bror, relationship=brothee, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:10:13;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:10:45;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Bro, relationship=brothe, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:13:16;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brorr, relationship=brotheoop, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:18:00;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brorr, relationship=brotheoop, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:19:47;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brorr, relationship=brotheoop, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:19:57;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:23:12;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:23:24;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:23:34;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:49:50;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:50:56;Inside RelationshipBankingMasterRequest [slno=1, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:51:21;Inside RelationshipBankingMasterRequest [slno=6, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 17:53:44;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 18:40:10;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 18:40:10;Relationship created successfullyRelationship [slno=9, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=null, createdOn=2020-11-30, createdAt=18:40:10, modifiedAt=null, modifiedOn=null]
+2020-11-30 18:40:40;Inside RelationshipBankingMasterRequest [slno=null, relationshipCode=Brortyr, relationship=brotheooghjngp, createdBy=pooja, modifiedBy=admin]
+2020-11-30 18:40:59;Inside RelationshipBankingMasterRequest [slno=null, relationshipCode=Brojhgkhk, relationship=brotheooghjngpgjnvj, createdBy=pooja, modifiedBy=admin]
+2020-11-30 18:40:59;Relationship created successfullyRelationship [slno=10, relationshipCode=Brojhgkhk, relationship=brotheooghjngpgjnvj, createdBy=pooja, modifiedBy=null, createdOn=2020-11-30, createdAt=18:40:59, modifiedAt=null, modifiedOn=null]
+2020-11-30 18:41:42;Inside RelationshipBankingMasterRequest [slno=null, relationshipCode=b, relationship=brotheooghjngpgjnvj, createdBy=pooja, modifiedBy=admin]
+2020-11-30 18:42:22;Inside RelationshipBankingMasterRequest [slno=7, relationshipCode=b, relationship=brotheooghjngpgjnvj, createdBy=pooja, modifiedBy=admin]
+2020-11-30 19:59:20;Inside MemberTypeBankingMasterRequest [slno=7, relationshipCode=b, relationship=brotheooghjngpgjnvj, name=null, createdBy=pooja, modifiedBy=admin]
+2020-11-30 19:59:20;MemberType created successfullyMemberType [slno=11, name=null, createdBy=pooja, modifiedBy=null, createdOn=2020-11-30, createdAt=19:59:20, modifiedAt=null, modifiedOn=null]
+2020-11-30 20:00:37;Inside MemberTypeBankingMasterRequest [slno=null, relationshipCode=null, relationship=null, name=stakholder, createdBy=pooja, modifiedBy=admin]
+2020-11-30 20:00:37;MemberType created successfullyMemberType [slno=12, name=stakholder, createdBy=pooja, modifiedBy=null, createdOn=2020-11-30, createdAt=20:00:37, modifiedAt=null, modifiedOn=null]
+2020-11-30 20:02:15;Inside MemberTypeBankingMasterRequest [slno=null, relationshipCode=null, relationship=null, name=stakholder, createdBy=pooja, modifiedBy=admin]
+2020-11-30 20:02:15;MemberType created successfullyMemberType [slno=13, name=stakholder, createdBy=pooja, modifiedBy=null, createdOn=2020-11-30, createdAt=20:02:15, modifiedAt=null, modifiedOn=null]
+2020-11-30 20:03:20;Inside MemberTypeBankingMasterRequest [slno=null, relationshipCode=null, relationship=null, name=stakholder, createdBy=pooja, modifiedBy=admin]
+2020-11-30 20:13:20;Inside RelationshipBankingMasterRequest [slno=null, relationshipCode=null, relationship=null, name=stakholder, createdBy=pooja, modifiedBy=admin]
+2020-11-30 20:13:41;Inside RelationshipBankingMasterRequest [slno=10, relationshipCode=null, relationship=null, name=null, createdBy=null, modifiedBy=null]
+2020-11-30 20:13:50;Inside RelationshipBankingMasterRequest [slno=13, relationshipCode=null, relationship=null, name=null, createdBy=null, modifiedBy=null]
+2020-11-30 20:44:37;Inside RelationshipBankingMasterRequest [slno=13, relationshipCode=null, relationship=null, name=null, createdBy=null, modifiedBy=null]
+2020-11-30 20:45:27;Inside RelationshipBankingMasterRequest [slno=13, relationshipCode=null, relationship=null, name=satish, createdBy=null, modifiedBy=admin]
+2020-11-30 20:45:39;Inside RelationshipBankingMasterRequest [slno=13, relationshipCode=null, relationship=null, name=satish, createdBy=null, modifiedBy=admin]
+2020-11-30 20:52:46;Inside RelationshipBankingMasterRequest [slno=13, relationshipCode=null, relationship=null, name=null, createdBy=null, modifiedBy=null]
